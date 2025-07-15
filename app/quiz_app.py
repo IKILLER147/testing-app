@@ -10,7 +10,6 @@ def clear_widgets(container):
         widget.destroy()
 
 def restore_answers(q_list):
-    # Pro převod odpovědí zpět na set při načtení session
     for q in q_list:
         if isinstance(q.get("answer"), list):
             q["answer"] = set(q["answer"])
@@ -29,7 +28,9 @@ class QuizApp:
         self.master.resizable(False, False)
         self._setup_widgets()
         self.all_questions = questions.copy()
-        self.current_options = []  # uloží pořadí pro aktuální otázku
+        self.current_options = []
+        self.elapsed_seconds = 0
+        self._timer_running = False
         if resume_data:
             self._load_session(resume_data)
         else:
@@ -41,6 +42,10 @@ class QuizApp:
         self.counter_label.pack(pady=2)
         self.round_label = tk.Label(self.master, font=("Arial", 11, "italic"))
         self.round_label.pack(pady=2)
+        # Timer label bude vytvořen vždy, ale zobrazen pouze v testovacím režimu
+        self.timer_label = tk.Label(self.master, font=("Arial", 12), fg="blue")
+        if not self.view_mode:
+            self.timer_label.pack(pady=2)
         self.question_label = tk.Label(self.master, font=("Arial", 14), wraplength=1000)
         self.question_label.pack(pady=10)
         self.options_frame = tk.Frame(self.master)
@@ -56,8 +61,18 @@ class QuizApp:
         self.master.bind('<Return>', lambda event: self.button.invoke())
         self.master.bind('<Escape>', lambda event: self._back_to_menu())
 
+    def _start_timer(self):
+        if not self._timer_running or self.view_mode:
+            return
+        mins, secs = divmod(self.elapsed_seconds, 60)
+        self.timer_label.config(text=f"Doba trvání testu: {mins:02}:{secs:02}")
+        self.elapsed_seconds += 1
+        # Zajistí, že se další volání provede přesně po 1 sekundě
+        self.master.after(1000, self._start_timer)
+
     def _back_to_menu(self):
         clear_widgets(self.master)
+        self._timer_running = False
         if self.show_main_menu:
             self.show_main_menu()
 
@@ -73,6 +88,10 @@ class QuizApp:
         self.round_label.config(text="")
         self.question_label.config(font=("Arial", 14), pady=0)
         self.current_options = []
+        self.elapsed_seconds = 0
+        self._timer_running = not self.view_mode
+        if not self.view_mode:
+            self._start_timer()
 
     def _load_session(self, data):
         self.question_list = data["question_list"]
@@ -83,7 +102,11 @@ class QuizApp:
         self.wrong_questions = data["wrong_questions"]
         self.all_questions = data["all_questions"]
         self.vars = {}
-        self.current_options = []
+        self.current_options = data.get("current_options", [])
+        self.elapsed_seconds = data.get("elapsed_seconds", 0)
+        self._timer_running = not self.view_mode
+        if not self.view_mode:
+            self._start_timer()
 
     def _get_session_data(self):
         return {
@@ -95,6 +118,7 @@ class QuizApp:
             "wrong_questions": self.wrong_questions,
             "all_questions": self.all_questions,
             "current_options": self.current_options,
+            "elapsed_seconds": self.elapsed_seconds,
         }
 
     def _save_progress(self):
@@ -104,7 +128,6 @@ class QuizApp:
     def _show_options(self, mark_correct=None, user_selected=None):
         clear_widgets(self.options_frame)
         self.vars = {}
-        # Pořadí možností vždy bereme z self.current_options
         option_labels = self.option_keys[:len(self.current_options)]
         for idx, (orig_key, value) in enumerate(self.current_options):
             key = option_labels[idx]
@@ -138,9 +161,7 @@ class QuizApp:
         self.round_label.config(text="První kolo" if self.mode == "first_run" else f"Opakovací kolo {self.kolo - 1}")
         self.question_label.config(text=self.q["question"])
         if "table" in self.q:
-            # (Doplníš pokud máš tabulky)
             pass
-        # *** ZAMÍCHEJ možnosti POUZE při prvnímu zobrazení otázky ***
         self.current_options = list(self.q["options"].items())
         random.shuffle(self.current_options)
         self._show_options()
@@ -185,7 +206,6 @@ class QuizApp:
             self.stats[str_id]["total"] += 1
         option_labels = self.option_keys[:len(self.current_options)]
         user_selected = {k for k, v in self.vars.items() if v.get()}
-        # Mapovat výběr na originální klíč v možnostech!
         user_set = {self.current_options[option_labels.index(k)][0] for k in user_selected}
         correct = user_set == self.q["answer"]
         self._show_options(mark_correct=True, user_selected=user_selected)
@@ -235,11 +255,17 @@ class QuizApp:
 
     def _end_quiz(self):
         clear_widgets(self.options_frame)
+        self._timer_running = False
         self.question_label.config(text="🥳", font=("Arial", 48), pady=20)
         self.counter_label.config(text="")
         self.round_label.config(text="")
         text = f"Hotovo! Zvládl/a jsi správně odpovědět na všechny otázky.\n"
-        text += f"Počet kol (včetně prvního): {self.kolo}"
+        text += f"Počet kol (včetně prvního): {self.kolo}\n"
+        if not self.view_mode:
+            mins, secs = divmod(self.elapsed_seconds, 60)
+            text += f"Celkový čas: {mins:02}:{secs:02}"
+            self.stats["latest_duration"] = self.elapsed_seconds
+            save_stats(self.stats)
         self.feedback_label.config(text=text, fg="blue")
         self.button.config(state="disabled")
         self.menu_button.config(state="normal")
@@ -271,4 +297,10 @@ def continue_last_test(root, ALL_QUESTIONS, show_main_menu):
     data["question_list"] = restore_answers(data["question_list"])
     data["all_questions"] = restore_answers(data["all_questions"])
     data["wrong_questions"] = restore_answers(data["wrong_questions"])
-    start_quiz(root, data["all_questions"], show_main_menu, view_mode=False, resume_data=data)
+    start_quiz(
+        root,
+        data["all_questions"],
+        show_main_menu,
+        view_mode=False,
+        resume_data=data
+    )
