@@ -1,0 +1,1729 @@
+{
+  "question_list": [
+    {
+      "id": 58,
+      "type": "theoretical",
+      "question": "Mezi aktiva nepatří:",
+      "options": {
+        "a": "peníze",
+        "b": "zásoby",
+        "c": "závazky",
+        "d": "pohledávky",
+        "e": "budovy"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 53,
+      "type": "theoretical",
+      "question": "Omezené ručení znamená že podnikatel:",
+      "options": {
+        "a": "neručí vůbec",
+        "b": "ručí pouze majetkovým vkladem do podniku",
+        "c": "ručí celým svým majetkem",
+        "d": "ručí do výše svých příjmů",
+        "e": "ručí do výše základního kapitálu"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 48,
+      "type": "theoretical",
+      "question": "Ekologická funkce půdy je možnost produkovat obnovitelnou energii?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 62,
+      "type": "theoretical",
+      "question": "Mezi krátkodobé bankovní úvěry nepatří:",
+      "options": {
+        "a": "kontokorentní úvěr",
+        "b": "eskontní úvěr",
+        "c": "revolvingový úvěr",
+        "d": "hypoteční úvěr",
+        "e": "provozní úvěr"
+      },
+      "answer": [
+        "d"
+      ]
+    },
+    {
+      "id": 36,
+      "type": "theoretical",
+      "question": "Oportunitní (alternativní) náklady jsou ty, které podnik platí (mají formu pěněžních výdajů) za nakoupené výrobní zdroje, za nájemné, za použití cizího kapitálu atd?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 39,
+      "type": "theoretical",
+      "question": "Z ukazatele doby obratu pohledávek můžeme zjistit, za kolik dní jsou pohledávky v podniku v průměru splaceny?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 43,
+      "type": "theoretical",
+      "question": "Rentabilita je obecně definována jako podíl nákladů a vybraného souhrného ukazatele (např. Celková aktiva, vlastní kapitál apod.)?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "theoretical",
+      "question": "Vznik pohledávky z obchodního styku znamená pro podnik to, že v budoucnu:",
+      "options": {
+        "a": "zvýší se celkové množství odpisů v podniku.",
+        "b": "bude splácet úvěr",
+        "c": "obdrží od odběratele platbu",
+        "d": "musí zaplatit dodavateli",
+        "e": "sníží se základ pro výpočet daně"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 59,
+      "type": "theoretical",
+      "question": "Vzorec ve tvaru P = Q/T slouží obecně pro výpočet:",
+      "options": {
+        "a": "produktivita práce",
+        "b": "rentabilita nákladů",
+        "c": "obrat zásob",
+        "d": "ziskovost podniku",
+        "e": "kapitálová struktura"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 51,
+      "type": "theoretical",
+      "question": "Hlavní činností podniku je nákup kapitálu.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "theoretical",
+      "question": "Oběžný majetek musí být v podniku delší dobu než 1 rok.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "theoretical",
+      "question": "Je „Výkaz zisku a ztráty“ členěn na oblast provozní a účetní?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "theoretical",
+      "question": "Do finančního cash-flow dle nepřímé metody jeho stanovení nepatří:",
+      "options": {
+        "a": "splátky obligací (dluhopisů)",
+        "b": "změna stavu zásob",
+        "c": "výplata dividend",
+        "d": "emise akcií",
+        "e": "čerpání úvěru"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "theoretical",
+      "question": "Čistá současná hodnota je definována jako:",
+      "options": {
+        "a": "rozdíl mezi náklady na investici a zisky, které investice přinesla",
+        "b": "ani jedna definice není správná",
+        "c": "rozdíl mezi diskontovanými příjmy z investice a kapitálovými výdaji vynaloženými na investici",
+        "d": "podíl výnosů z investice a nákladů vynaložených na investici",
+        "e": "podíl celkových zisků z investice a celkových nákladů na ni vynaložených"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "theoretical",
+      "question": "Slouží „Výkaz zisku a ztráty“ i pro výpočet daňové povinnosti?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "theoretical",
+      "question": "Mezi přímé náklady řadíme především náklady spojené s organizací, řízením a správou.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 40,
+      "type": "theoretical",
+      "question": "Metoda čisté současné hodnoty je založena na porovnání současné hodnoty očekávaných příjmů a současné hodnoty kapitálových výdajů?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "theoretical",
+      "question": "Je osoba podnikající na základě živnostenského oprávnění právnickou osobou?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "theoretical",
+      "question": "Rozvaha musí být vždy vyrovnaná, tzn. aktiva se musí rovnat pasivům.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "theoretical",
+      "question": "Pro zjištění celkových nákladů je nutné přičíst k fixním a variabilním nákladům rovněž náklady mezní.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "theoretical",
+      "question": "Výše základního kapitálu u s. r. o. je v současnosti:",
+      "options": {
+        "a": "1.000,- Kč",
+        "b": "10.000,- Kč",
+        "c": "100.000,- Kč",
+        "d": "1.000.000,- Kč",
+        "e": "1,- Kč"
+      },
+      "answer": [
+        "e"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "theoretical",
+      "question": "Patří mezi možné příjemce výsledků finanční analýzy i konkurenti daného podniku?",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "theoretical",
+      "question": "Ukazatel ROA (výnosnost celkových zdrojů) je definován jako:",
+      "options": {
+        "a": "zisk/celkový kapitál",
+        "b": "zisk/vlastní kapitál",
+        "c": "náklady/celkové zdroje",
+        "d": "vlastní zdroje/tržby",
+        "e": "zisk/ náklady"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 54,
+      "type": "theoretical",
+      "question": "Při založení musí být v současnosti družstvo nejméně (dle nové úpravy zákona o obch. korporacích):",
+      "options": {
+        "a": "2 členy",
+        "b": "3 členy",
+        "c": "5 členů",
+        "d": "7 členů",
+        "e": "1 zakladatel"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 55,
+      "type": "theoretical",
+      "question": "Mezi dlouhodobý hmotný majetek nepatří:",
+      "options": {
+        "a": "pozemky",
+        "b": "budovy",
+        "c": "mladá a ostatní zvířata",
+        "d": "stroje",
+        "e": "dopravní prostředky"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 57,
+      "type": "theoretical",
+      "question": "Velikost majetku, který podnik spravuje, není ovlivněna:",
+      "options": {
+        "a": "cenou majetku",
+        "b": "rozsahem podnikových fondů",
+        "c": "předmětem činnosti podniku",
+        "d": "stupněm využití",
+        "e": "neplatí ani jedno tvrzení"
+      },
+      "answer": [
+        "e"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "theoretical",
+      "question": "Domácnosti vystupují na trhu práce na straně nabídky.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 32,
+      "type": "theoretical",
+      "question": "Jsou jednotlivá aktiva v rozvaze řazena dle likvidnosti?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "theoretical",
+      "question": "Vychází výpočet cash flow u přímé metody ze zisku a odpisů?",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "theoretical",
+      "question": "Mezi cizí kapitál nepatří:",
+      "options": {
+        "a": "rezervy",
+        "b": "krátkodobé závazky",
+        "c": "dlouhodobé závazky",
+        "d": "bankovní úvěry",
+        "e": "emisní ážio"
+      },
+      "answer": [
+        "e"
+      ]
+    },
+    {
+      "id": 47,
+      "type": "theoretical",
+      "question": "Je položka Čistý obrat souhrnem všech nákladů z Výkazu Zisku a Ztráty?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 49,
+      "type": "theoretical",
+      "question": "Nejčastější investicí v podnicích je nákup materiálu.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 28,
+      "type": "theoretical",
+      "question": "Mezi statické metody hodnocení efektivnosti investic patří čistá současná hodnota.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 30,
+      "type": "theoretical",
+      "question": "Existují v ekonomice subjekty, které nepodnikají za účelem zisku?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "theoretical",
+      "question": "Vznik závazku z obchodního styku znamená pro podnik to, že v budoucnu:",
+      "options": {
+        "a": "zvýší se celkové množství odpisů v podniku.",
+        "b": "obdrží od odběratele platbu",
+        "c": "musí zaplatit dodavateli",
+        "d": "bude splácet úvěr",
+        "e": "sníží se základ pro výpočet daně"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 46,
+      "type": "theoretical",
+      "question": "Vychází výpočet cash flow u přímé metody z příjmů a výdajů?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "theoretical",
+      "question": "Produktivita práce je obecně definována jako:",
+      "options": {
+        "a": "podíl spotřebované práce ku obdělávané ploše",
+        "b": "podíl vstupů do výroby ku spotřebované práci (v hodinách, pracovnících či nákladech)",
+        "c": "podíl objemu vytvořené produkce ku spotřebované práci (v hodinách, pracovnících či nákladech)",
+        "d": "podíl výnosů ze zemědělské činnosti ku celkovým výnosům podniku",
+        "e": "podíl objemu vytvořené produkce ku množství výrobního faktoru kapitál"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 44,
+      "type": "theoretical",
+      "question": "Odštěpený závod je dle občanského zákoníku pobočka zapsaná do obchodního (veřejného rejstříku)?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 34,
+      "type": "theoretical",
+      "question": "Finanční náklady představují vynaložené položky, které jsou spojeny s činností podniku v oblasti financování (např. úroky, pokuty apod.).",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 1,
+      "type": "theoretical",
+      "question": "Čistý pracovní kapitál je definován jako rozdíl mezi:",
+      "options": {
+        "a": "vlastním a cizím kapitálem",
+        "b": "pohledávkami a závazky",
+        "c": "dlouhodobým majetkem a oběžným majetkem",
+        "d": "oběžnými aktivy a krátkodobým kapitálem",
+        "e": "neplatí ani jedno tvrzení"
+      },
+      "answer": [
+        "d"
+      ]
+    },
+    {
+      "id": 61,
+      "type": "theoretical",
+      "question": "Mezi financování investic vlastním kapitálem patří:",
+      "options": {
+        "a": "čerpání úvěru",
+        "b": "emisní ážio",
+        "c": "financování ziskem",
+        "d": "leasing",
+        "e": "prodej obligací"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 29,
+      "type": "theoretical",
+      "question": "Ustanovení občanského zákoníku rozlišují 2 typy právnických osob – korporace a ústavy.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "theoretical",
+      "question": "Marginální (mezní) náklady nás informují o tom, o kolik Kč se změní náklady, zvýší-li se objem vyrobené produkce o jednotku.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 27,
+      "type": "theoretical",
+      "question": "Dynamické metody hodnocení investic respektují faktor času, to znamená, že jejich výstupem je stupeň opotřebení dlouhodobého hmotného a nehmotného majetku.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "theoretical",
+      "question": "Mezi 3 základní výrobní faktory, které jsou zapotřebí pro podnikatelskou činnost, patří práce, peníze a kapitál.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 52,
+      "type": "theoretical",
+      "question": "Rezervní fond je u s.r.o. dle nové úpravy tvořen:",
+      "options": {
+        "a": "povinně ve výši 10 %",
+        "b": "dobrovolně",
+        "c": "ve výši stanovené zákonem",
+        "d": "z rozhodnutí finančního úřadu",
+        "e": "na základě rozhodnutí věřitele"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 38,
+      "type": "theoretical",
+      "question": "Patří finanční páka mezi finanční ukazatele aktivity?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "theoretical",
+      "question": "Nominální mzda vyjadřuje:",
+      "options": {
+        "a": "mzdu, kterou si pracovník vydělal jako zaměstnanec (odměna za práci v penězích)",
+        "b": "mzdu, která je poskytována v naturáliích",
+        "c": "neplatí ani jedno tvrzení",
+        "d": "mzdu v porovnání k cenové hladině zboží a služeb",
+        "e": "mzdu přepočtenou dle průměrného ročního kurzu české koruny k americkému dolaru"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 45,
+      "type": "theoretical",
+      "question": "Je rozvaha provázána s výkazem zisku a ztráty?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "theoretical",
+      "question": "Podle způsobu přičítání ke kalkulačnímu úseku (kalkulačnímu vzorci) se náklady člení na:",
+      "options": {
+        "a": "materiálové a finanční",
+        "b": "provozní a mimořádné",
+        "c": "účetní a oportunitní",
+        "d": "proměnné a stálé",
+        "e": "přímé a nepřímé"
+      },
+      "answer": [
+        "e"
+      ]
+    },
+    {
+      "id": 42,
+      "type": "theoretical",
+      "question": "Analýza, která sleduje vývoj daných finančních ukazatelů v čase (trend) se označuje jako vertikální?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 41,
+      "type": "theoretical",
+      "question": "Obchodními korporacemi jsou obchodní společnosti a družstva?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "theoretical",
+      "question": "Ukazatel ROE (výnosnost vlastních zdrojů) je definován jako:",
+      "options": {
+        "a": "zisk/vlastní kapitál",
+        "b": "náklady/vlastní zdroje.",
+        "c": "vlastní zdroje/tržby",
+        "d": "zisk/celkový kapitál",
+        "e": "zisk/ náklady"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 64,
+      "type": "theoretical",
+      "question": "Mezi pasiva nepatří:",
+      "options": {
+        "a": "závazky",
+        "b": "vlastní kapitál",
+        "c": "bankovní úvěry",
+        "d": "peníze na běžných účtech",
+        "e": "rezervy"
+      },
+      "answer": [
+        "d"
+      ]
+    },
+    {
+      "id": 60,
+      "type": "theoretical",
+      "question": "Komplementář je společník komanditní společnosti, který:",
+      "options": {
+        "a": "má jen poradní hlas",
+        "b": "ručí za závazky společnosti do výše vkladu",
+        "c": "ručí celým svým majetkem",
+        "d": "má právo na většinu zisku",
+        "e": "nenese žádnou odpovědnost"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 56,
+      "type": "theoretical",
+      "question": "Odpisy jsou:",
+      "options": {
+        "a": "daňová úleva",
+        "b": "ztráta hodnoty zásob",
+        "c": "peněžní vyjádření opotřebení dlouhodobého majetku za určité období",
+        "d": "nárůst majetku",
+        "e": "zákonná rezerva"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 35,
+      "type": "theoretical",
+      "question": "Bod zvratu je takový objem produkce, při němž podnik nedosahuje ani zisku ani ztráty?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 33,
+      "type": "theoretical",
+      "question": "Dlouhodobý majetek členíme na hmotný, movitý a finanční.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "theoretical",
+      "question": "Nákladové položky, které nejsou vedeny v účetnictví a nemají charakter daňově uznatelného nákladu, se nazývají:",
+      "options": {
+        "a": "oportunitní náklady",
+        "b": "mimořádné náklady",
+        "c": "materiálové náklady",
+        "d": "finanční náklady",
+        "e": "osobní náklady"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "theoretical",
+      "question": "Pokud podnik za daný rok generoval zisk, projeví se to nárůstem vlastního kapitálu?",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 50,
+      "type": "theoretical",
+      "question": "Orná půda pokrývá 70 % zemědělského fondu.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 63,
+      "type": "theoretical",
+      "question": "Komandista je společník, který:",
+      "options": {
+        "a": "ručí celým svým majetkem",
+        "b": "neručí vůbec",
+        "c": "má pouze právo na podíl ze zisku",
+        "d": "ručí do výše svého nesplaceného vkladu zapsaného v obchodním rejstříku",
+        "e": "je automaticky statutárním orgánem"
+      },
+      "answer": [
+        "d"
+      ]
+    },
+    {
+      "id": 37,
+      "type": "theoretical",
+      "question": "Nevýhodou úkolové mzdy je, že nepodněcuje zaměstnance k vyšší produktivitě práce?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "theoretical",
+      "question": "Je položka 'Čistý obrat' souhrnem všech výnosů z Výkazu ZZ?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    }
+  ],
+  "question_index": 3,
+  "kolo": 1,
+  "mode": "first_run",
+  "score": 2,
+  "wrong_questions": [
+    {
+      "id": 53,
+      "type": "theoretical",
+      "question": "Omezené ručení znamená že podnikatel:",
+      "options": {
+        "a": "neručí vůbec",
+        "b": "ručí pouze majetkovým vkladem do podniku",
+        "c": "ručí celým svým majetkem",
+        "d": "ručí do výše svých příjmů",
+        "e": "ručí do výše základního kapitálu"
+      },
+      "answer": [
+        "b"
+      ]
+    }
+  ],
+  "all_questions": [
+    {
+      "id": 1,
+      "type": "theoretical",
+      "question": "Čistý pracovní kapitál je definován jako rozdíl mezi:",
+      "options": {
+        "a": "vlastním a cizím kapitálem",
+        "b": "pohledávkami a závazky",
+        "c": "dlouhodobým majetkem a oběžným majetkem",
+        "d": "oběžnými aktivy a krátkodobým kapitálem",
+        "e": "neplatí ani jedno tvrzení"
+      },
+      "answer": [
+        "d"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "theoretical",
+      "question": "Oběžný majetek musí být v podniku delší dobu než 1 rok.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "theoretical",
+      "question": "Mezi cizí kapitál nepatří:",
+      "options": {
+        "a": "rezervy",
+        "b": "krátkodobé závazky",
+        "c": "dlouhodobé závazky",
+        "d": "bankovní úvěry",
+        "e": "emisní ážio"
+      },
+      "answer": [
+        "e"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "theoretical",
+      "question": "Vznik pohledávky z obchodního styku znamená pro podnik to, že v budoucnu:",
+      "options": {
+        "a": "zvýší se celkové množství odpisů v podniku.",
+        "b": "bude splácet úvěr",
+        "c": "obdrží od odběratele platbu",
+        "d": "musí zaplatit dodavateli",
+        "e": "sníží se základ pro výpočet daně"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "theoretical",
+      "question": "Rozvaha musí být vždy vyrovnaná, tzn. aktiva se musí rovnat pasivům.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "theoretical",
+      "question": "Pokud podnik za daný rok generoval zisk, projeví se to nárůstem vlastního kapitálu?",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "theoretical",
+      "question": "Výše základního kapitálu u s. r. o. je v současnosti:",
+      "options": {
+        "a": "1.000,- Kč",
+        "b": "10.000,- Kč",
+        "c": "100.000,- Kč",
+        "d": "1.000.000,- Kč",
+        "e": "1,- Kč"
+      },
+      "answer": [
+        "e"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "theoretical",
+      "question": "Vznik závazku z obchodního styku znamená pro podnik to, že v budoucnu:",
+      "options": {
+        "a": "zvýší se celkové množství odpisů v podniku.",
+        "b": "obdrží od odběratele platbu",
+        "c": "musí zaplatit dodavateli",
+        "d": "bude splácet úvěr",
+        "e": "sníží se základ pro výpočet daně"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "theoretical",
+      "question": "Je „Výkaz zisku a ztráty“ členěn na oblast provozní a účetní?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 10,
+      "type": "theoretical",
+      "question": "Je položka 'Čistý obrat' souhrnem všech výnosů z Výkazu ZZ?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 11,
+      "type": "theoretical",
+      "question": "Vychází výpočet cash flow u přímé metody ze zisku a odpisů?",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 12,
+      "type": "theoretical",
+      "question": "Do finančního cash-flow dle nepřímé metody jeho stanovení nepatří:",
+      "options": {
+        "a": "splátky obligací (dluhopisů)",
+        "b": "změna stavu zásob",
+        "c": "výplata dividend",
+        "d": "emise akcií",
+        "e": "čerpání úvěru"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 13,
+      "type": "theoretical",
+      "question": "Pro zjištění celkových nákladů je nutné přičíst k fixním a variabilním nákladům rovněž náklady mezní.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 14,
+      "type": "theoretical",
+      "question": "Slouží „Výkaz zisku a ztráty“ i pro výpočet daňové povinnosti?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 15,
+      "type": "theoretical",
+      "question": "Marginální (mezní) náklady nás informují o tom, o kolik Kč se změní náklady, zvýší-li se objem vyrobené produkce o jednotku.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 16,
+      "type": "theoretical",
+      "question": "Mezi přímé náklady řadíme především náklady spojené s organizací, řízením a správou.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 17,
+      "type": "theoretical",
+      "question": "Nákladové položky, které nejsou vedeny v účetnictví a nemají charakter daňově uznatelného nákladu, se nazývají:",
+      "options": {
+        "a": "oportunitní náklady",
+        "b": "mimořádné náklady",
+        "c": "materiálové náklady",
+        "d": "finanční náklady",
+        "e": "osobní náklady"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 18,
+      "type": "theoretical",
+      "question": "Podle způsobu přičítání ke kalkulačnímu úseku (kalkulačnímu vzorci) se náklady člení na:",
+      "options": {
+        "a": "materiálové a finanční",
+        "b": "provozní a mimořádné",
+        "c": "účetní a oportunitní",
+        "d": "proměnné a stálé",
+        "e": "přímé a nepřímé"
+      },
+      "answer": [
+        "e"
+      ]
+    },
+    {
+      "id": 19,
+      "type": "theoretical",
+      "question": "Produktivita práce je obecně definována jako:",
+      "options": {
+        "a": "podíl spotřebované práce ku obdělávané ploše",
+        "b": "podíl vstupů do výroby ku spotřebované práci (v hodinách, pracovnících či nákladech)",
+        "c": "podíl objemu vytvořené produkce ku spotřebované práci (v hodinách, pracovnících či nákladech)",
+        "d": "podíl výnosů ze zemědělské činnosti ku celkovým výnosům podniku",
+        "e": "podíl objemu vytvořené produkce ku množství výrobního faktoru kapitál"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 20,
+      "type": "theoretical",
+      "question": "Mezi 3 základní výrobní faktory, které jsou zapotřebí pro podnikatelskou činnost, patří práce, peníze a kapitál.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 21,
+      "type": "theoretical",
+      "question": "Nominální mzda vyjadřuje:",
+      "options": {
+        "a": "mzdu, kterou si pracovník vydělal jako zaměstnanec (odměna za práci v penězích)",
+        "b": "mzdu, která je poskytována v naturáliích",
+        "c": "neplatí ani jedno tvrzení",
+        "d": "mzdu v porovnání k cenové hladině zboží a služeb",
+        "e": "mzdu přepočtenou dle průměrného ročního kurzu české koruny k americkému dolaru"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 22,
+      "type": "theoretical",
+      "question": "Domácnosti vystupují na trhu práce na straně nabídky.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 23,
+      "type": "theoretical",
+      "question": "Ukazatel ROE (výnosnost vlastních zdrojů) je definován jako:",
+      "options": {
+        "a": "zisk/vlastní kapitál",
+        "b": "náklady/vlastní zdroje.",
+        "c": "vlastní zdroje/tržby",
+        "d": "zisk/celkový kapitál",
+        "e": "zisk/ náklady"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 24,
+      "type": "theoretical",
+      "question": "Patří mezi možné příjemce výsledků finanční analýzy i konkurenti daného podniku?",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 25,
+      "type": "theoretical",
+      "question": "Ukazatel ROA (výnosnost celkových zdrojů) je definován jako:",
+      "options": {
+        "a": "zisk/celkový kapitál",
+        "b": "zisk/vlastní kapitál",
+        "c": "náklady/celkové zdroje",
+        "d": "vlastní zdroje/tržby",
+        "e": "zisk/ náklady"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 26,
+      "type": "theoretical",
+      "question": "Čistá současná hodnota je definována jako:",
+      "options": {
+        "a": "rozdíl mezi náklady na investici a zisky, které investice přinesla",
+        "b": "ani jedna definice není správná",
+        "c": "rozdíl mezi diskontovanými příjmy z investice a kapitálovými výdaji vynaloženými na investici",
+        "d": "podíl výnosů z investice a nákladů vynaložených na investici",
+        "e": "podíl celkových zisků z investice a celkových nákladů na ni vynaložených"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 27,
+      "type": "theoretical",
+      "question": "Dynamické metody hodnocení investic respektují faktor času, to znamená, že jejich výstupem je stupeň opotřebení dlouhodobého hmotného a nehmotného majetku.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 28,
+      "type": "theoretical",
+      "question": "Mezi statické metody hodnocení efektivnosti investic patří čistá současná hodnota.",
+      "options": {
+        "a": "NE",
+        "b": "ANO"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 29,
+      "type": "theoretical",
+      "question": "Ustanovení občanského zákoníku rozlišují 2 typy právnických osob – korporace a ústavy.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 30,
+      "type": "theoretical",
+      "question": "Existují v ekonomice subjekty, které nepodnikají za účelem zisku?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 31,
+      "type": "theoretical",
+      "question": "Je osoba podnikající na základě živnostenského oprávnění právnickou osobou?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 32,
+      "type": "theoretical",
+      "question": "Jsou jednotlivá aktiva v rozvaze řazena dle likvidnosti?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 33,
+      "type": "theoretical",
+      "question": "Dlouhodobý majetek členíme na hmotný, movitý a finanční.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 34,
+      "type": "theoretical",
+      "question": "Finanční náklady představují vynaložené položky, které jsou spojeny s činností podniku v oblasti financování (např. úroky, pokuty apod.).",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 35,
+      "type": "theoretical",
+      "question": "Bod zvratu je takový objem produkce, při němž podnik nedosahuje ani zisku ani ztráty?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 36,
+      "type": "theoretical",
+      "question": "Oportunitní (alternativní) náklady jsou ty, které podnik platí (mají formu pěněžních výdajů) za nakoupené výrobní zdroje, za nájemné, za použití cizího kapitálu atd?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 37,
+      "type": "theoretical",
+      "question": "Nevýhodou úkolové mzdy je, že nepodněcuje zaměstnance k vyšší produktivitě práce?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 38,
+      "type": "theoretical",
+      "question": "Patří finanční páka mezi finanční ukazatele aktivity?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 39,
+      "type": "theoretical",
+      "question": "Z ukazatele doby obratu pohledávek můžeme zjistit, za kolik dní jsou pohledávky v podniku v průměru splaceny?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 40,
+      "type": "theoretical",
+      "question": "Metoda čisté současné hodnoty je založena na porovnání současné hodnoty očekávaných příjmů a současné hodnoty kapitálových výdajů?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 41,
+      "type": "theoretical",
+      "question": "Obchodními korporacemi jsou obchodní společnosti a družstva?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 42,
+      "type": "theoretical",
+      "question": "Analýza, která sleduje vývoj daných finančních ukazatelů v čase (trend) se označuje jako vertikální?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 43,
+      "type": "theoretical",
+      "question": "Rentabilita je obecně definována jako podíl nákladů a vybraného souhrného ukazatele (např. Celková aktiva, vlastní kapitál apod.)?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 44,
+      "type": "theoretical",
+      "question": "Odštěpený závod je dle občanského zákoníku pobočka zapsaná do obchodního (veřejného rejstříku)?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 45,
+      "type": "theoretical",
+      "question": "Je rozvaha provázána s výkazem zisku a ztráty?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 46,
+      "type": "theoretical",
+      "question": "Vychází výpočet cash flow u přímé metody z příjmů a výdajů?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 47,
+      "type": "theoretical",
+      "question": "Je položka Čistý obrat souhrnem všech nákladů z Výkazu Zisku a Ztráty?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 48,
+      "type": "theoretical",
+      "question": "Ekologická funkce půdy je možnost produkovat obnovitelnou energii?",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 49,
+      "type": "theoretical",
+      "question": "Nejčastější investicí v podnicích je nákup materiálu.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 50,
+      "type": "theoretical",
+      "question": "Orná půda pokrývá 70 % zemědělského fondu.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 51,
+      "type": "theoretical",
+      "question": "Hlavní činností podniku je nákup kapitálu.",
+      "options": {
+        "a": "ANO",
+        "b": "NE"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 52,
+      "type": "theoretical",
+      "question": "Rezervní fond je u s.r.o. dle nové úpravy tvořen:",
+      "options": {
+        "a": "povinně ve výši 10 %",
+        "b": "dobrovolně",
+        "c": "ve výši stanovené zákonem",
+        "d": "z rozhodnutí finančního úřadu",
+        "e": "na základě rozhodnutí věřitele"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 53,
+      "type": "theoretical",
+      "question": "Omezené ručení znamená že podnikatel:",
+      "options": {
+        "a": "neručí vůbec",
+        "b": "ručí pouze majetkovým vkladem do podniku",
+        "c": "ručí celým svým majetkem",
+        "d": "ručí do výše svých příjmů",
+        "e": "ručí do výše základního kapitálu"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 54,
+      "type": "theoretical",
+      "question": "Při založení musí být v současnosti družstvo nejméně (dle nové úpravy zákona o obch. korporacích):",
+      "options": {
+        "a": "2 členy",
+        "b": "3 členy",
+        "c": "5 členů",
+        "d": "7 členů",
+        "e": "1 zakladatel"
+      },
+      "answer": [
+        "b"
+      ]
+    },
+    {
+      "id": 55,
+      "type": "theoretical",
+      "question": "Mezi dlouhodobý hmotný majetek nepatří:",
+      "options": {
+        "a": "pozemky",
+        "b": "budovy",
+        "c": "mladá a ostatní zvířata",
+        "d": "stroje",
+        "e": "dopravní prostředky"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 56,
+      "type": "theoretical",
+      "question": "Odpisy jsou:",
+      "options": {
+        "a": "daňová úleva",
+        "b": "ztráta hodnoty zásob",
+        "c": "peněžní vyjádření opotřebení dlouhodobého majetku za určité období",
+        "d": "nárůst majetku",
+        "e": "zákonná rezerva"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 57,
+      "type": "theoretical",
+      "question": "Velikost majetku, který podnik spravuje, není ovlivněna:",
+      "options": {
+        "a": "cenou majetku",
+        "b": "rozsahem podnikových fondů",
+        "c": "předmětem činnosti podniku",
+        "d": "stupněm využití",
+        "e": "neplatí ani jedno tvrzení"
+      },
+      "answer": [
+        "e"
+      ]
+    },
+    {
+      "id": 58,
+      "type": "theoretical",
+      "question": "Mezi aktiva nepatří:",
+      "options": {
+        "a": "peníze",
+        "b": "zásoby",
+        "c": "závazky",
+        "d": "pohledávky",
+        "e": "budovy"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 59,
+      "type": "theoretical",
+      "question": "Vzorec ve tvaru P = Q/T slouží obecně pro výpočet:",
+      "options": {
+        "a": "produktivita práce",
+        "b": "rentabilita nákladů",
+        "c": "obrat zásob",
+        "d": "ziskovost podniku",
+        "e": "kapitálová struktura"
+      },
+      "answer": [
+        "a"
+      ]
+    },
+    {
+      "id": 60,
+      "type": "theoretical",
+      "question": "Komplementář je společník komanditní společnosti, který:",
+      "options": {
+        "a": "má jen poradní hlas",
+        "b": "ručí za závazky společnosti do výše vkladu",
+        "c": "ručí celým svým majetkem",
+        "d": "má právo na většinu zisku",
+        "e": "nenese žádnou odpovědnost"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 61,
+      "type": "theoretical",
+      "question": "Mezi financování investic vlastním kapitálem patří:",
+      "options": {
+        "a": "čerpání úvěru",
+        "b": "emisní ážio",
+        "c": "financování ziskem",
+        "d": "leasing",
+        "e": "prodej obligací"
+      },
+      "answer": [
+        "c"
+      ]
+    },
+    {
+      "id": 62,
+      "type": "theoretical",
+      "question": "Mezi krátkodobé bankovní úvěry nepatří:",
+      "options": {
+        "a": "kontokorentní úvěr",
+        "b": "eskontní úvěr",
+        "c": "revolvingový úvěr",
+        "d": "hypoteční úvěr",
+        "e": "provozní úvěr"
+      },
+      "answer": [
+        "d"
+      ]
+    },
+    {
+      "id": 63,
+      "type": "theoretical",
+      "question": "Komandista je společník, který:",
+      "options": {
+        "a": "ručí celým svým majetkem",
+        "b": "neručí vůbec",
+        "c": "má pouze právo na podíl ze zisku",
+        "d": "ručí do výše svého nesplaceného vkladu zapsaného v obchodním rejstříku",
+        "e": "je automaticky statutárním orgánem"
+      },
+      "answer": [
+        "d"
+      ]
+    },
+    {
+      "id": 64,
+      "type": "theoretical",
+      "question": "Mezi pasiva nepatří:",
+      "options": {
+        "a": "závazky",
+        "b": "vlastní kapitál",
+        "c": "bankovní úvěry",
+        "d": "peníze na běžných účtech",
+        "e": "rezervy"
+      },
+      "answer": [
+        "d"
+      ]
+    }
+  ],
+  "current_options": [
+    [
+      "a",
+      "ANO"
+    ],
+    [
+      "b",
+      "NE"
+    ]
+  ]
+}
